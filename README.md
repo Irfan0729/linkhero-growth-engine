@@ -3,6 +3,8 @@
 ## Live Demo
 🔗 https://irfan0729.github.io/linkhero-growth-engine/
 
+![LinkHero Growth Engine screenshot](screenshot.png)
+
 ## About the Project
 LinkHero Growth Engine is a responsive landing page designed for a LinkedIn personal branding and growth service.
 
@@ -56,4 +58,4 @@ Submissions will appear in a tab named **Responses** with the columns Timestamp,
 Frontend Web Development Project
 
 ## Developer
-Developed by [@irfan0729](https://github.com/irfan0729) with assistance from AI tools and online tutorials.
+Developed by [@irfan0729](https://github.com/irfan0729) with assistance from AI tools
